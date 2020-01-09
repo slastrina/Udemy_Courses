@@ -1,2 +1,2 @@
-# Udemy_Ultimate_AWS_Certified_Developer_Notes
-Notes and Code while studying Udemy's aws certified developer course
+# Udemy_Courses
+Repository for storing notes and code developed while studying Udemy courses
