@@ -18,3 +18,5 @@ Route53 supports
 * routing policys (simple, failover, geo etc)
 
 Route53 doesnt appear much in the exam but worth knowing the records types
+
+![dns_entry_examples](dns_entry_examples.png)
