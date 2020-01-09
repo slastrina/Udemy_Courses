@@ -24,8 +24,9 @@ Disadvantage:
 RDS Read Replicas:
 * read scalability, up to 5 read replicas within AZ, Cross AZ or Cross Region
 * Replication is ASYNC so reads are eventually consistant
-* Replicas can be promted to their own database
+* Replicas can be promoted to their own database
 * Applications must update the connection string to leverage read replicas
+* read replicas are SEPARATE databases, they each have their own connection strings
 
 ![rds_read_replicas](rds_read_replicas.png)
 
