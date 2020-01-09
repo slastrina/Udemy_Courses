@@ -61,11 +61,9 @@ Can setup internal or external load balancers
 
 # Load balancer good to know
 * CLB, ALB, NLB has a static host name, Do not resolve underlying IP
-* LB can scale but not instantaniously, contact AWS for a "warm-up"
+* LB can scale but not instantaniously, contact AWS for a "warm-up" (took about 3 minutes for me)
 * NLB directly see ip of client
 * 4xx errors are client induced errors
 * 5xx errors are application induced errors
 * 503 means capacity limit
 * if lb cant access application check security groups
-
-
