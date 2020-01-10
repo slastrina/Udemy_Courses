@@ -1,4 +1,4 @@
-# Terminology
+# Acronyms
 * ALB: Application Load Balancer
 * ASG: Auto scaling group
 * AZ: availability zone
@@ -13,3 +13,7 @@
 * Scaling In: to decrease nodes
 * Scaling Out: to increase nodes
 * VPC: Virtual Private Cloud
+* CORS: Cross Origin Resource Sharing
+
+# Services
+* Glacier: S3 service for long term storage
